@@ -1,0 +1,12 @@
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious\bin\Debug\GenericsVarious.exe.config
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious\obj\Debug\GenericsVarious.csprojResolveAssemblyReference.cache
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious\bin\Debug\GenericsVarious.exe
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious\bin\Debug\GenericsVarious.pdb
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious\obj\Debug\GenericsVarious.exe
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious\obj\Debug\GenericsVarious.pdb
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious\bin\Debug\GenericsVarious.exe.config
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious\obj\Debug\GenericsVarious.exe
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious\obj\Debug\GenericsVarious.pdb
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious\bin\Debug\GenericsVarious.exe
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious\bin\Debug\GenericsVarious.pdb
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious\obj\Debug\GenericsVarious.csprojResolveAssemblyReference.cache

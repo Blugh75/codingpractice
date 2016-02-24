@@ -1,0 +1,16 @@
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\obj\Debug\GenericsVarious.Test.csprojResolveAssemblyReference.cache
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.Test.dll
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.Test.pdb
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.exe
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.pdb
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\obj\Debug\GenericsVarious.Test.dll
+C:\Users\Blugh Namgauds\Documents\Coding\CSharpFundamentalsTraining\charpGenerics\Practice\GenericsVarious\GenericsVarious.Test\obj\Debug\GenericsVarious.Test.pdb
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.Test.dll
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.Test.pdb
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.exe
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\bin\Debug\GenericsVarious.pdb
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\obj\Debug\GenericsVarious.Test.csprojResolveAssemblyReference.cache
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\obj\Debug\GenericsVarious.Test.dll
+C:\Users\Blugh Namgauds\Source\Repos\codingpractice\GenericsVarious\GenericsVarious.Test\obj\Debug\GenericsVarious.Test.pdb
